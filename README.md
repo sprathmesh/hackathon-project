@@ -61,5 +61,5 @@ git checkout dev   # Switch to development branch
 **Prathmesh Shinde**  
 📧 Email: cnct.prathmesh@gmail.com  
 🔗 GitHub: [sprathmesh](https://github.com/sprathmesh)  
-🔗 LinkedIn: [Prathmesh Shinde](https://linkedin.com/in/prathmeshshinde)  
+🔗 LinkedIn: [Prathmesh Shinde](https://www.linkedin.com/in/prathmesh-shinde123/)  
 🔗 DockerHub: [sprathmesh](https://hub.docker.com/u/sprathmesh)  
